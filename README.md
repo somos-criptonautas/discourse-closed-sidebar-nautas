@@ -2,6 +2,8 @@
 
 **ENGLISH** | [ESPAÑOL](README.es.md)
 
+Maintained by Criptonautas. Not affiliated with or endorsed by Discourse (Civilized Discourse Construction Kit, Inc.).
+
 Discourse theme component that, on mobile viewports (≤767px), keeps the sidebar
 closed by default and lets users open it by swiping from the left edge and close
 it by swiping left. In a configurable list of categories the sidebar auto-opens

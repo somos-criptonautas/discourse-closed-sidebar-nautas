@@ -2,6 +2,8 @@
 
 [ENGLISH](README.md) | **ESPAÑOL**
 
+Mantenido por Criptonautas. Sin afiliación ni respaldo de Discourse (Civilized Discourse Construction Kit, Inc.).
+
 Componente de tema de Discourse que, en viewports móviles (≤767px), mantiene la barra lateral
 cerrada por defecto y permite abrirla deslizando desde el borde izquierdo y cerrarla
 deslizando hacia la izquierda. En una lista configurable de categorías la barra lateral se abre
