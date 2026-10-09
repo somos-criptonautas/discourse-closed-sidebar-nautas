@@ -2,7 +2,7 @@
 // A subtle grabber hint on the left edge to signal the swipe affordance.
 // No !important overrides: opening/closing reuses Discourse's native sidebar.
 
-@media (max-width: 767px) {
+@media (width <= 767px) {
   body::before {
     content: "";
     position: fixed;
@@ -11,7 +11,7 @@
     width: 4px;
     height: 44px;
     border-radius: 0 4px 4px 0;
-    background: var(--primary-low-mid, rgba(128, 128, 128, 0.35));
+    background: var(--primary-low-mid, rgb(128, 128, 128, 0.35));
     opacity: 0.5;
     z-index: 997;
     pointer-events: none;
