@@ -1,7 +1,7 @@
 {
   "name": "Closed Sidebar by default Nautas",
   "authors": "VaperinaDEV — Forked by Criptonautas",
-  "about_url": null,
+  "about_url": "https://github.com/somos-criptonautas/discourse-closed-sidebar-nautas",
   "license_url": null,
   "component": true,
   "minimum_discourse_version": "3.2.0",
